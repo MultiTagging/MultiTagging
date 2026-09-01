@@ -23,7 +23,7 @@ The MultiTagging framework provides several functions through the following comp
    ```
 3.   Add your study's files in <A Href="https://github.com/MultiTagging/MultiTagging/tree/main/ToolReports">ToolReports</A>, <A Href="https://github.com/MultiTagging/MultiTagging/tree/main/ToolAnalysisTime">ToolAnalysisTime</A>, and <A Href="https://github.com/MultiTagging/MultiTagging/tree/main/BaseDS">BaseDS</A>. To retrieve study files from other folders, you can alternatively update the <A Href="https://github.com/MultiTagging/MultiTagging/blob/main/Scripts/config.json"> Scripts/config.json </A> file.
 4.   Run the MultiTagging framework, there are three options:
-      1. **Termianl Option:**
+      1. **Terminal Option:**
          1.   Run <A Href="https://github.com/MultiTagging/MultiTagging/blob/main/Main.py">Main.py</A> to open the wizard program. 
          ```
          python3 Main.py
@@ -54,20 +54,34 @@ The MultiTagging framework provides several functions through the following comp
 ## Demo
 *  The MultiTagging framework demo is available here: <A Href="https://github.com/MultiTagging/MultiTagging_Demo.git">MultiTagging Demo</A>
 
-# Publications
-For more details about the MultiTagging Framework, read our publication: <A Href="https://www.mdpi.com/2079-9292/13/23/4616">MultiTagging: A Vulnerable Smart Contract Labeling and Evaluation Framework</A>, published in the Electronics Journal. Please cite our article if you use any part of the framework.
-```
+## 📚 Publication
+
+The MultiTagging framework is described in the following publication:
+
+**Alsunaidi, S. J., Aljamaan, H., & Hammoudeh, M. (2024).**  
+*MultiTagging: A Vulnerable Smart Contract Labeling and Evaluation Framework.*  
+**Electronics, 13(23)**, 4616.  
+https://doi.org/10.3390/electronics13234616
+
+If you use the MultiTagging framework in your research, please cite:
+
+```bibtex
 @article{alsunaidi2024multitagging,
-  title={MultiTagging: A Vulnerable Smart Contract Labeling and Evaluation Framework},
-  author={Alsunaidi, Shikah J and Aljamaan, Hamoud and Hammoudeh, Mohammad},
-  journal={Electronics},
-  volume={13},
-  number={23},
-  pages={4616},
-  year={2024},
-  publisher={MDPI},
-  URL = {https://www.mdpi.com/2079-9292/13/23/4616},
-  ISSN = {2079-9292},
-  DOI = {10.3390/electronics13234616}
+  title     = {MultiTagging: A Vulnerable Smart Contract Labeling and Evaluation Framework},
+  author    = {Alsunaidi, Shikah J. and Aljamaan, Hamoud and Hammoudeh, Mohammad},
+  journal   = {Electronics},
+  volume    = {13},
+  number    = {23},
+  pages     = {4616},
+  year      = {2024},
+  publisher = {MDPI},
+  doi       = {10.3390/electronics13234616},
+  url       = {https://doi.org/10.3390/electronics13234616}
 }
 ```
+
+### 📦 Archived Resource
+
+The MultiTagging framework is archived on Zenodo:
+
+- **MultiTagging Framework:** [https://doi.org/10.5281/zenodo.19563271](https://doi.org/10.5281/zenodo.19563271)
