@@ -1,0 +1,44 @@
+cff-version: 1.2.0
+message: "If you use the MultiTagging framework in your research, please cite the associated publication."
+
+title: "MultiTagging Framework"
+type: software
+
+authors:
+  - family-names: "Alsunaidi"
+    given-names: "Shikah J."
+    orcid: "https://orcid.org/0000-0002-8262-5025"
+
+  - family-names: "Aljamaan"
+    given-names: "Hamoud"
+    orcid: "https://orcid.org/0000-0002-2146-9348"
+
+  - family-names: "Hammoudeh"
+    given-names: "Mohammad"
+    orcid: "https://orcid.org/0000-0003-1058-0996"
+
+repository-code: "https://github.com/MultiTagging/MultiTagging"
+doi: "10.5281/zenodo.19563271"
+
+preferred-citation:
+  type: article
+  authors:
+    - family-names: "Alsunaidi"
+      given-names: "Shikah J."
+      orcid: "https://orcid.org/0000-0002-8262-5025"
+
+    - family-names: "Aljamaan"
+      given-names: "Hamoud"
+      orcid: "https://orcid.org/0000-0002-2146-9348"
+
+    - family-names: "Hammoudeh"
+      given-names: "Mohammad"
+      orcid: "https://orcid.org/0000-0003-1058-0996"
+
+  title: "MultiTagging: A Vulnerable Smart Contract Labeling and Evaluation Framework"
+  journal: "Electronics"
+  volume: 13
+  issue: 23
+  year: 2024
+  doi: "10.3390/electronics13234616"
+  url: "https://doi.org/10.3390/electronics13234616"
