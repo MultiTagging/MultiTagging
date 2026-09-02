@@ -1,5 +1,14 @@
+
+
 # 🏷️ MultiTagging
 A vulnerable Ethereum smart contract labeling framework.
+
+[![Paper](https://img.shields.io/badge/Paper-Electronics-blue)](https://doi.org/10.3390/electronics13234616)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19563271.svg)](https://doi.org/10.5281/zenodo.19563271)
+[![GitHub release](https://img.shields.io/github/v/release/MultiTagging/MultiTagging)](https://github.com/MultiTagging/MultiTagging/releases)
+[![GitHub Downloads](https://img.shields.io/github/downloads/MultiTagging/MultiTagging/total)](https://github.com/MultiTagging/MultiTagging/releases)
+[![GitHub stars](https://img.shields.io/github/stars/MultiTagging/MultiTagging?style=social)](https://github.com/MultiTagging/MultiTagging/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/MultiTagging/MultiTagging?style=social)](https://github.com/MultiTagging/MultiTagging/network/members)
 
 ---
 
