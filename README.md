@@ -145,3 +145,13 @@ If you use the MultiTagging framework in your research, please cite:
 The MultiTagging framework is archived on Zenodo:
 
 - **MultiTagging Framework:** [https://doi.org/10.5281/zenodo.19563271](https://doi.org/10.5281/zenodo.19563271)
+
+---
+
+## 📄 License
+
+This project is licensed under the [Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0)](LICENSE.md).
+
+You may share and adapt the material for non-commercial purposes, provided appropriate credit is given.
+
+For more details, see the [LICENSE.md](LICENSE.md) file.
